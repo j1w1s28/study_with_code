@@ -167,3 +167,6 @@ test*
 
 #input.txt
 *.txt
+
+#./bigdata-analytics
+/big-data-analytics-certification/
