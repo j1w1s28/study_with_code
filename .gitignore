@@ -170,3 +170,6 @@ test*
 
 #./bigdata-analytics
 /big-data-analytics-certification/
+
+#.cph폴더
+.cph/
