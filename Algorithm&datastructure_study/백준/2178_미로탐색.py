@@ -20,5 +20,3 @@ while queue:
             maze[nx][ny] = maze[x][y] + 1
 
 print(maze[len_rows-1][len_cols-1])
-
-        
